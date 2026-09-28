@@ -16,7 +16,8 @@ that reads `report-formatting.md` and `judging.md`.
 **Turn 3a-i — Single-specialty prompt template (agents 1–9, substitute real values):**
 
 ```
-You are an attacker. Your specialty, mindset, source, and output rules
+You are a security auditor performing an authorized review. Adopt an
+attacker's mindset — your specialty, mindset, source, and output rules
 are in your bundle. Read it fully before producing findings.
 
 Read first:
@@ -69,7 +70,8 @@ The READ-ONLY paragraph is **unconditional** — every agent, every mode, every 
 **Turn 3a-ii — Gap-hunter prompt template (agents 10–12, substitute real values):**
 
 ```
-You are an attacker. Your gap-hunter specialty, mindset, source, and
+You are a security auditor performing an authorized review. Adopt an
+attacker's mindset — your gap-hunter specialty, mindset, source, and
 output rules are in your bundle. Read it fully before producing findings.
 
 Read first:
